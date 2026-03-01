@@ -1,0 +1,23 @@
+{
+  "channel": "stable",
+  "model": "6p",
+  "family": "eink-small",
+  "latest": {
+    "version": "1.5.0",
+    "publishedAt": "2026-03-01T20:10:00Z",
+    "title": "Updater + UI su /api",
+    "notes": [
+      "Aggiunta pagina Aggiornamenti",
+      "Fix download resumable",
+      "Migliorie stabilità"
+    ],
+    "mandatory": false,
+    "minSupportedVersion": "1.3.0",
+    "asset": {
+      "file": "astrolabio-rpi-1.5.0-eink-small.tar.gz",
+      "url": "https://.../releases/1.5.0/astrolabio-rpi-1.5.0-eink-small.tar.gz",
+      "sha256": "...",
+      "sizeBytes": 312456789
+    }
+  }
+}
